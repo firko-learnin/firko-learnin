@@ -7,4 +7,4 @@ After several years working in the financial services industry I decided to take
 
 ## Tech stack
 
-https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby%20on%20rails&logoColor=white&style=flat
+![js](/javascript.svg)
