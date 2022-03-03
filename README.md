@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-  ![Tux, the Linux mascot](/assets/images/tux.png)
+  ![Tux, the Linux mascot](/tokyo.png)
 
 <!--
 **firko-learnin/firko-learnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
