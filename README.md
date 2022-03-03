@@ -1,7 +1,5 @@
-### Hi there 👋
-
   ![Tokyo, Japan](/tokyo.jpg)
-
+### Hi there 👋
 <!--
 **firko-learnin/firko-learnin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
