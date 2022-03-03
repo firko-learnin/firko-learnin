@@ -12,10 +12,15 @@ I am currently on [The School of Code's](https://www.schoolofcode.co.uk/) 16 wee
 
 <img align="left" alt="TypeScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/typescript/typescript-plain.svg" />
 
+<img align="left" alt="React" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/react/react-original.svg" />
+
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/html5/html5-original.svg" />
 
 <img align="left" alt="CSS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/css3/css3-original.svg" />
 <img align="left" alt="NodeJS" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" />
+
+
+
 
 <!-- images: https://github.com/devicons/devicon/tree/master/icons --!>
