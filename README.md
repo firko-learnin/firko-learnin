@@ -2,7 +2,7 @@
 
 ### Hey there 👋
 
-My name is Jack Firkin and I'm a full stack software developer from Birmingham, UK with a passion for tech and problem solving.
+My name is Jack Firkin and I'm a full stack software developer from Birmingham, UK with a passion for all things tech and problem solving.
 
 I am currently on [The School of Code's](https://www.schoolofcode.co.uk/) 16 week intensive full stack bootcamp!
 
