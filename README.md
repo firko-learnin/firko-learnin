@@ -21,7 +21,7 @@ I am currently on [The School of Code's](https://www.schoolofcode.co.uk/) 16 wee
 <img align="left" alt="PostgreSQL" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/postgresql/postgresql-original.svg" />
 
 <img align="left" alt="Firebase" width="50px" src="
-https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg" />
+https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain-wordmark.svg" />
 
 
 
