@@ -6,7 +6,7 @@ My name is Jack Firkin and I'm a full stack software developer from Birmingham, 
 
 I am currently on [The School of Code's](https://www.schoolofcode.co.uk/) 16 week intensive full stack bootcamp!
 
-## Tech stack
+## Tech I'm currently using:
 
 <img align="left" alt="JavaScript" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 
