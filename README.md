@@ -22,7 +22,7 @@ I recently graduated from [The School of Code's](https://www.schoolofcode.co.uk/
 
 <img align="left" alt="Firebase" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/firebase/firebase-plain.svg" />
 
-<img align="left" alt="Firebase" width="50px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--5N472VlU--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://repository-images.githubusercontent.com/65750241/79017180-d4ce-11e9-9955-3f0a7be00c7a" />
+<img align="left" alt="Firebase" width="50px" src="https://repository-images.githubusercontent.com/65750241/79017180-d4ce-11e9-9955-3f0a7be00c7a" />
 
 
 
